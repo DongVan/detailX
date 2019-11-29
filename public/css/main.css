@@ -1,0 +1,96 @@
+.left {
+  float: left !important;
+}
+
+.right {
+  float: right !important;
+}
+
+.clear {
+  clear: both;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-left {
+  text-align: left !important;;
+}
+
+.uk-notification {
+  z-index: 100000 !important;
+}
+
+.uk-notification-close svg {
+  color: #fff;
+}
+
+.uk-notification-message-success {
+  background-color: #32d296;
+  color: #fff;
+  font-size: 15px;
+}
+
+.uk-notification-message-danger {
+  background-color: #f0506e;
+  color: #fff;
+  font-size: 15px;
+}
+
+.cl-red {
+  color: red;
+}
+
+.cl-orangered {
+  color: orangered;
+}
+
+.cl-blue {
+  color: #0c94d6 !important;
+}
+
+.cl-green {
+  color: #00b857 !important;
+}
+
+.cl-black {
+  color: #333 !important;
+}
+
+.uk-input, .uk-select, .uk-textarea {
+  border: 1px solid #999;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 0px !important;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  /*background: #f1f1f1;*/
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+.margin0 {
+  margin: 0 !important;
+}
+
+.uk-tooltip {
+  word-wrap: break-word !important;
+  white-space: normal;
+  background: #fff;
+  color: #000;
+  border: 1px solid #000;
+}
